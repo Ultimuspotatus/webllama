@@ -20,3 +20,13 @@ input {
     border-radius: 40px;
     padding:10px;
 }
+
+.user-text{
+    width: 200px;
+    margin-left:1000px
+}
+
+.ai-text{
+    width: 200px;
+    margin-right:500px
+}
