@@ -1,0 +1,22 @@
+main{
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+}
+
+.chat-history{
+    margin: 20px 250px;
+    padding: 200px 200px;
+    border: 1px;
+    border-style: solid;
+}
+
+input {
+    width: 30%;
+    height: 40px;
+    border-radius: 40px;
+    padding:10px;
+}
